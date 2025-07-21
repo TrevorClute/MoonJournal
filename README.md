@@ -1,6 +1,3 @@
-# MoonJournal
-3d journaling iOS app on the moon
-
 # Privacy Policy
 The MoonJournal iOS app does not collect any user data of any kind. The app does not access the Internet at all.
 
